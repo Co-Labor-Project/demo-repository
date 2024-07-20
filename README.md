@@ -14,12 +14,12 @@ Co-Labor는 외국인 노동자들이 한국에서 안정적이고 효율적으�
 사용자의 직장 위치를 기반으로 가까운 외국인 노동자 지원센터 위치를 제공합니다. 이는 노동자들이 필요한 지원을 빠르게 받을 수 있도록 도와줍니다.
 
 ## 제안서
-![제안서 페이지 1](./images/proposal_1.jpg)
-![제안서 페이지 2](./images/proposal_2.jpg)
-![제안서 페이지 3](./images/proposal_3.jpg)
-![제안서 페이지 4](./images/proposal_4.jpg)
-![제안서 페이지 5](./images/proposal_5.jpg)
-![제안서 페이지 6](./images/proposal_6.jpg)
+![1](https://github.com/user-attachments/assets/e7b906cb-d92e-4bb0-8fa6-8ba5641083d1)
+![2](https://github.com/user-attachments/assets/6a663a9c-14bd-484d-b217-2e8021bb66b0)
+![3](https://github.com/user-attachments/assets/11892247-7fb9-4288-a969-fab23145f1b3)
+![4](https://github.com/user-attachments/assets/d51b3da8-79a2-416c-bfb1-fb7f9b1c5d35)
+![5](https://github.com/user-attachments/assets/8c0c2542-1181-43d5-bd25-583091d29378)
+![6](https://github.com/user-attachments/assets/d586b6de-865c-45d1-977f-774580d770d9)
 
 ## 개발현황
 ### 백엔드
