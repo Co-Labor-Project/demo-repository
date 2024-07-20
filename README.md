@@ -34,6 +34,16 @@ Co-Labor는 외국인 노동자들이 한국에서 안정적이고 효율적으�
 ## ERD 다이어그램
 ![Co Labor (4) (1)](https://github.com/user-attachments/assets/1d6fb457-601a-44de-89e5-44dad404c0ef)
 
+## 팀원 구성
+
+<div align="center">
+
+| **김도현** | **김문기** | **정한울** | **조준화** |
+| :------: |  :------: | :------: | :------: |
+| [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @kdhqwe1030](https://github.com/kdhqwe1030) | [<img src="https://avatars.githubusercontent.com/u/112460466?v=4" height=150 width=150> <br/> @mk-isos](https://github.com/mk-isos) | [<img src="https://avatars.githubusercontent.com/u/112460506?v=4" height=150 width=150> <br/> @jjj5306](https://github.com/jjj5306) | [<img src="https://avatars.githubusercontent.com/u/76766459?v=4" height=150 width=150> <br/> @jho7535](https://github.com/jho7535) |
+
+</div>
+
 ## 기능별 페이지 설명
 ### 기업 정보
 국세청 사업자등록정보 진위확인 및 상태조회 API를 활용하여 다양한 기업 정보를 제공합니다. 사용자는 기업 상세페이지에서 리뷰를 통해 기업의 신뢰도를 평가할 수 있습니다.
