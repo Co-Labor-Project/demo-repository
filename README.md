@@ -36,7 +36,7 @@ Co-Labor는 외국인 노동자들이 한국에서 안정적이고 효율적으�
 - Front : HTML, React, css, js
 - Back-end : spring
 - 버전 및 이슈관리 : Github, Github Issues, Github Project
-- 협업 툴 : Discord, Slack, Notion [Notion](https://mixolydian-idea-627.notion.site/ba5857ecea9e498f9b94586421b27ca5)
+- 협업 툴 : Discord, Slack, [Notion](https://mixolydian-idea-627.notion.site/ba5857ecea9e498f9b94586421b27ca5)
 - 서비스 배포 환경 : github?
 - 디자인 : [Figma](https://www.figma.com/design/YddHONkDl0nqcbQVkUEVTa/%EA%B3%B5%EB%AA%A8%EC%A0%84?node-id=33-251&t=ocRWZPY412U61gb0-0)
   
