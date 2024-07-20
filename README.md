@@ -32,7 +32,7 @@ Co-Labor는 외국인 노동자들이 한국에서 안정적이고 효율적으�
 ![colabor drawio](https://github.com/user-attachments/assets/127e0d5d-714e-4416-9334-575a5e4a0209)
 
 ## ERD 다이어그램
-![ERD 다이어그램](./images/erd_diagram.jpg)
+![Co Labor (4) (1)](https://github.com/user-attachments/assets/1d6fb457-601a-44de-89e5-44dad404c0ef)
 
 ## 기능별 페이지 설명
 ### 기업 정보
