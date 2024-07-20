@@ -40,9 +40,10 @@ Co-Labor는 외국인 노동자들이 한국에서 안정적이고 효율적으�
 
 | **김도현** | **김문기** | **정한울** | **조준화** |
 | :------: |  :------: | :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @kdhqwe1030](https://github.com/kdhqwe1030) | [<img src="https://avatars.githubusercontent.com/u/112460466?v=4" height=150 width=150> <br/> @mk-isos](https://github.com/mk-isos) | [<img src="https://avatars.githubusercontent.com/u/112460506?v=4" height=150 width=150> <br/> @jjj5306](https://github.com/jjj5306) | [<img src="https://avatars.githubusercontent.com/u/76766459?v=4" height=150 width=150> <br/> @jho7535](https://github.com/jho7535) |
+| ![ehgus](https://github.com/user-attachments/assets/87c460aa-4999-4bc6-9243-3e32b6bfca35) <br/> [@kdhqwe1030](https://github.com/kdhqwe1030) | ![ansrl](https://github.com/user-attachments/assets/8c32ebd4-b849-438c-ad4d-c154328060e7) <br/> [@mk-isos](https://github.com/mk-isos) | ![화면 캡처 2024-07-01 164944](https://github.com/user-attachments/assets/403beca7-52fe-4917-899d-1ecf454e3ae9) <br/> [@jho7535](https://github.com/jho7535) | ![KakaoTalk_20240721_032045960_01](https://github.com/user-attachments/assets/5b8e7e6f-ca40-4be6-b9c5-14a56a42bea7) <br/> [@jjj5306](https://github.com/jjj5306) |
 
 </div>
+
 
 ## 기능별 페이지 설명
 ### 기업 정보
