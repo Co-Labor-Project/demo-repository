@@ -31,6 +31,15 @@ Co-Labor는 외국인 노동자들이 한국에서 안정적이고 효율적으�
 ## 시스템 아키텍처
 ![colabor drawio](https://github.com/user-attachments/assets/127e0d5d-714e-4416-9334-575a5e4a0209)
 
+### 1. 개발 환경
+
+- Front : HTML, React, css, js
+- Back-end : spring
+- 버전 및 이슈관리 : Github, Github Issues, Github Project
+- 협업 툴 : Discord, Slack, Notion [Notion](https://mixolydian-idea-627.notion.site/ba5857ecea9e498f9b94586421b27ca5)
+- 서비스 배포 환경 : github?
+- 디자인 : [Figma](https://www.figma.com/design/YddHONkDl0nqcbQVkUEVTa/%EA%B3%B5%EB%AA%A8%EC%A0%84?node-id=33-251&t=ocRWZPY412U61gb0-0)
+  
 ## ERD 다이어그램
 ![Co Labor (4) (1)](https://github.com/user-attachments/assets/1d6fb457-601a-44de-89e5-44dad404c0ef)
 
