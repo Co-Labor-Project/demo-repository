@@ -72,42 +72,53 @@
 ## 💻 상세 페이지 !!!!!!!!!!!!!!설명 수정 필요
 ### 📍 메인 페이지
 <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Main%20Page.gif" width="100%" height="100%" />
+
 - Co-Labor 메인 페이지
 
 ### 📍 로그인 / 회원가입 페이지
 <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Login.gif" width="100%" height="100%" />
+
 - Co-Labor 로그인 및 일반 회원, 기업 회원 가입 페이지
 
 ### 📍 기업 등록 페이지
 <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Company%20Registration.gif" width="100%" height="100%" />
+
 - 채용 공고를 게시하고자 하는 기업 회원이 본인의 소속 기업을 등록하는 페이지
 - 등록한 기업은 추후 관리자에 의해 승인
 
 ### 📍 기업 상세 페이지
 <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Company%20Details.gif" width="100%" height="100%" />
+
 - Co-Labor에 등록된 기업들의 상세 정보, 채용 공고, 기업 리뷰 등을 확인 할 수 있는 페이지
 - 해당 기업의 전체 리뷰 통계와 각 리뷰별 세부 내용 확인 가능
 
 ### 📍 채용 공고 페이지
 <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Recruitment%20Notice.gif" width="100%" height="100%" />
+
 - 기업 회원들이 게시한 기업 채용 공고를 확인 할 수 있는 페이지
-- 경력, 근무형태, 우대사항 등 세부 내용과 연관된 채용 공고 확인 가능
+- 직군, 경력, 근무형태, 우대사항 등 세부 내용과 연관된 채용 공고 확인 가능
 
 ### 📍 일반 검색 페이지
 <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Search.gif" width="100%" height="100%" />
-- 
+
+- 기업 정보, 채용 공고, 기업 리뷰 등을 키워드로 검색
 
 ### 📍 AI 검색 페이지
 <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/AI%20Search.gif" width="100%" height="100%" />
-- 
+
+- ?
 
 ### 📍 법률 챗봇 페이지
 <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Legal%20Chatbot.gif" width="100%" height="100%" />
-- 
+
+- 근로계약, 비자 규정, 법적 권리와 의무 등에 관한 정보를 제공하며, 법적 문제 해결을 도움
+- ?30일 이내의 대화 내용을 저장하여 지속적인 확인 가능?
 
 ### 📍 외국인 노동자 지원 센터 페이지
 <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Foreign%20Worker%20Support%20Center.gif" width="100%" height="100%" />
-- 
+
+- 사용자의 현재 위치를 기반으로 인근 외국인 노동자 지원 센터 및 병원 위치 및 정보 확인 가능
+- 각 센터 클릭시, 지도에서 해당 위치로 이동
 
 
 ## 🧑‍💻 팀원 구성
@@ -119,3 +130,5 @@
 | <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/img/kdhqwe1030_img.jpg" height=240 width=180> <br/> _[@kdhqwe1030](https://github.com/kdhqwe1030)_ | <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/img/mk-isos_img.jpg" height=240 width=180> <br/> _[@mk-isos](https://github.com/mk-isos)_ | <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/img/jho7535_img.jpg" height=240 width=180> <br/> _[@jho7535](https://github.com/jho7535)_ | <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/img/jjj5306_img.jpg" height=240 width=180> <br/> _[@jjj5306](https://github.com/jjj5306)_ |
 
 </div>
+
+## 지원서?
