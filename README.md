@@ -16,14 +16,14 @@
 &nbsp;OpenAI API 모델을 활용하여 외국인 근로자들이 직장에서 겪을 수 있는 법률적인 문제에 대해 도움을 받을 수 있는 법률 상담 챗봇을 제공합니다. 챗봇은 한국의 노동법과 관련된 다양한 질문에 신속하고 정확하게 답변하여 법적 문제를 해결하는 데 도움을 줍니다.
 
 ## 🔗 개발 진행 상황
-- **Front-end** [FE Repository](https://github.com/Co-Labor-Project/Co-Labor-FE)
-- **Back-end** [BE Repository](https://github.com/Co-Labor-Project/Co-Labor-BE)
+- **Front-end** &nbsp;&nbsp;&nbsp;[FE Repository](https://github.com/Co-Labor-Project/Co-Labor-FE)
+- **Back-end** &nbsp;&nbsp;&nbsp;&nbsp;[BE Repository](https://github.com/Co-Labor-Project/Co-Labor-BE)
 
 ## 🗂️ 시스템 아키텍처
-![colabor drawio](https://github.com/user-attachments/assets/127e0d5d-714e-4416-9334-575a5e4a0209)
+<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/img/System_Architecture.png" width="70%" height="70%" />
 
 ## 🗃️ ERD
-![erd](https://github.com/user-attachments/assets/d8bdf38d-52bf-47f8-9e3d-bda802015754)
+<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/img/ERD.png" width="100%" height="100%" />
 
 ### `labor_user` - 일반 회원
 - 외국인 근로자(사용자) 정보
@@ -117,7 +117,7 @@
 ### 📍 AI 검색 페이지
 <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/AI%20Search.gif" width="100%" height="100%" />
 
-- AI 모델을 활용한 유사 키워드 검색
+- AI 모델을 활용한 유사 키워드 검색??????
 
 
 ## 🧑‍💻 팀원 구성
@@ -130,4 +130,4 @@
 
 </div>
 
-## 지원서?
+## 지원서?????????????????
