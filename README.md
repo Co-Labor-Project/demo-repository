@@ -68,7 +68,7 @@
 
 - 사용자와 법률 챗봇간의 채팅 메시지
 
-### Foreign Key(외래 키) 제약 조건???? 테이블???
+### Foreign Key(외래 키) 제약 조건
 
 - `job` : `enterprise_user_id` 및 `enterprise_id`는 `enterprise_user` 테이블 참조
 - `review` : `labor_user_id`는 `labor_user` 테이블 참조, `enterprise_id`는 `enterprise` 테이블 참조
@@ -144,7 +144,7 @@
 
 <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/AI%20Search.gif" width="100%" height="100%" />
 
-- AI 모델을 활용한 유사 키워드 검색??????
+- AI 모델을 활용하여 사용자 입력에 따라 관련성 높은 검색 결과를 빠르고 정확하게 제공
 
 ## 🧑‍💻 팀원 구성
 
@@ -156,4 +156,5 @@
 
 </div>
 
-## 📋 지원서?????????????????
+## 📋 지원서
+
