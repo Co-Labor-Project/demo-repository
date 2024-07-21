@@ -22,15 +22,6 @@
 ## 🗂️ 시스템 아키텍처
 ![colabor drawio](https://github.com/user-attachments/assets/127e0d5d-714e-4416-9334-575a5e4a0209)
 
-### 📚 기술 스택
-||Skills|
-|:-|:-:|
-|**Front-end**| ![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Static Badge](https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)|
-|**Back-end**| ![Static Badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)|
-|**Version Control System**|[![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Co-Labor-Project/demo-repository/)![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)|
-|**Collaboration**|![Static Badge](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) [![Static Badge](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://mixolydian-idea-627.notion.site/7d14829c5a3e4b84930b2c5a8b0c9838?pvs=4)|
-|**Design**|[![Static Badge](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/YddHONkDl0nqcbQVkUEVTa/%EA%B3%B5%EB%AA%A8%EC%A0%84?node-id=33-251&t=ocRWZPY412U61gb0-0)|
-
 ## 🗃️ ERD
 ![erd](https://github.com/user-attachments/assets/d8bdf38d-52bf-47f8-9e3d-bda802015754)
 
@@ -68,6 +59,14 @@
   - `enterprise_user` 테이블: `enterprise_id`는 `enterprise` 테이블 참조
   - `chatting` 테이블: `labor_user_id`는 `labor_user` 테이블 참조
 
+## 📚 기술 스택
+||Skills|
+|:-|:-:|
+|**Front-end**| ![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Static Badge](https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)|
+|**Back-end**| ![Static Badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)|
+|**Version Control System**|[![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Co-Labor-Project/demo-repository/)![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)|
+|**Collaboration**|![Static Badge](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) [![Static Badge](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://mixolydian-idea-627.notion.site/7d14829c5a3e4b84930b2c5a8b0c9838?pvs=4)|
+|**Design**|[![Static Badge](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/YddHONkDl0nqcbQVkUEVTa/%EA%B3%B5%EB%AA%A8%EC%A0%84?node-id=33-251&t=ocRWZPY412U61gb0-0)|
 
 
 ## 💻 기능별 페이지 !!!!!!!!!!!!!!설명 수정 필요
