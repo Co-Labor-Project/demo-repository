@@ -62,8 +62,7 @@
 ### 병원 (`hospital`)
 - **설명**: 병원 정보를 나타내며, 위치를 제공할 수 있습니다.
 
-## 관계 및 제약 조건
-
+### 관계 및 제약 조건
 - **외래 키 제약 조건**:
   - `job` 테이블: `enterprise_user_id` 및 `enterprise_id`는 `enterprise_user` 테이블 참조
   - `review` 테이블: `labor_user_id`는 `labor_user` 테이블 참조, `enterprise_id`는 `enterprise` 테이블 참조
