@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/22676c60-5353-49a6-8f72-15fed79e5eba)
+<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/img/Co-Labor.png" width="100%" height="100%" />
 
 # 👷 Co-Labor: 외국인 근로자 고용 서포트 플랫폼 서비스
-- 외국인 노동자들이 한국에서 안정적으로 정착하고 적응할 수 있도록 돕는 웹사이트
-- 외국인 노동자들이 겪는 일자리, 정보 부족, 법률 문제 등을 해결하고, 다양한 지원 서비스를 제공
+- 외국인 근로자들이 한국에서 안정적으로 정착하고 적응할 수 있도록 돕는 웹사이트
+- 외국인 근로자들이 겪는 일자리, 정보 부족, 법률 문제 등을 해결하고, 다양한 지원 서비스를 제공
 - ??궁극적으로 한국 사회의 경제 활성화와 사회 통합에 기여??
 
 ## ✨ 주요 기능
@@ -13,51 +13,50 @@
 &nbsp;DB에서 추출한 데이터를 기반으로 Word2Vec 모델을 학습시켜 유사 키워드를 생성합니다. 사용자가 입력한 키워드와 유사한 키워드를 통해 관련된 데이터를 보다 빠르고 정확하게 검색할 수 있습니다. 이를 통해 사용자는 필요한 정보를 신속하고 효율적으로 찾을 수 있습니다.
 
 ### 3️⃣ 법률 챗봇
-&nbsp;OpenAI API 모델을 활용하여 외국인 노동자들이 직장에서 겪을 수 있는 법률적인 문제에 대해 도움을 받을 수 있는 법률 상담 챗봇을 제공합니다. 챗봇은 한국의 노동법과 관련된 다양한 질문에 신속하고 정확하게 답변하여 법적 문제를 해결하는 데 도움을 줍니다.
+&nbsp;OpenAI API 모델을 활용하여 외국인 근로자들이 직장에서 겪을 수 있는 법률적인 문제에 대해 도움을 받을 수 있는 법률 상담 챗봇을 제공합니다. 챗봇은 한국의 노동법과 관련된 다양한 질문에 신속하고 정확하게 답변하여 법적 문제를 해결하는 데 도움을 줍니다.
 
 ## 🔗 개발 진행 상황
-- **Front-end** [FE Repository](https://github.com/Co-Labor-Project/Co-Labor-FE)
-- **Back-end** [BE Repository](https://github.com/Co-Labor-Project/Co-Labor-BE)
+- **Front-end** &nbsp;&nbsp;&nbsp;[FE Repository](https://github.com/Co-Labor-Project/Co-Labor-FE)
+- **Back-end** &nbsp;&nbsp;&nbsp;&nbsp;[BE Repository](https://github.com/Co-Labor-Project/Co-Labor-BE)
 
 ## 🗂️ 시스템 아키텍처
-![colabor drawio](https://github.com/user-attachments/assets/127e0d5d-714e-4416-9334-575a5e4a0209)
+<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/img/System_Architecture.png" width="70%" height="70%" />
 
 ## 🗃️ ERD
-![erd](https://github.com/user-attachments/assets/d8bdf38d-52bf-47f8-9e3d-bda802015754)
+<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/img/ERD.png" width="100%" height="100%" />
 
-### `labor_user` - 사용자
-- **설명**: 외국인 노동자(사용자) 정보를 나타냅니다.
+### `labor_user` - 일반 회원
+- 외국인 근로자(사용자) 정보
+
+### `enterprise_user` - 기업 회원
+- 채용 공고를 게시할 수 있는 기업 사용자 정보
 
 ### `enterprise` - 기업
-- **설명**: 기업 정보를 나타냅니다.
-
-### `job` - 채용 공고
-- **설명**: 기업에서 게시하는 채용 공고를 나타냅니다.
-
-### `review` - 리뷰
-- **설명**: 사용자가 기업에 대한 리뷰를 나타냅니다.
-
-### `support_center` - 지원 센터
-- **설명**: 채용을 지원하는 센터 정보를 나타냅니다.
-
-### `enterprise_user` - 기업 사용자
-- **설명**: 채용 공고를 게시할 수 있는 기업 내 사용자 정보를 나타냅니다.
-
-### `chatting` - 채팅
-- **설명**: 사용자와 법률 챗봇간의 채팅 메시지를 나타냅니다.
+- 기업 상세 정보
 
 ### `enterprise_queue` - 기업 대기열
-- **설명**: 승인을 기다리는 기업 정보를 나타냅니다.
+- 등록 승인을 기다리는 기업 정보
+
+### `job` - 채용 공고
+- 기업 회원이 게시하는 채용 공고
+
+### `review` - 리뷰
+- 사용자가 기업에 대해 남긴 리뷰
 
 ### `hospital` - 병원
-- **설명**: 병원 정보를 나타내며, 위치를 제공할 수 있습니다.
+- 병원 상세 정보
 
-### 관계 및 제약 조건 !!!!!!!!!!테이블??
-- **외래 키 제약 조건**:
-  - `job` 테이블: `enterprise_user_id` 및 `enterprise_id`는 `enterprise_user` 테이블 참조
-  - `review` 테이블: `labor_user_id`는 `labor_user` 테이블 참조, `enterprise_id`는 `enterprise` 테이블 참조
-  - `enterprise_user` 테이블: `enterprise_id`는 `enterprise` 테이블 참조
-  - `chatting` 테이블: `labor_user_id`는 `labor_user` 테이블 참조
+### `support_center` - 외국인 근로자 지원 센터
+- 외국인 근로자 지원 센터 상세 정보
+
+### `chatting` - 채팅
+- 사용자와 법률 챗봇간의 채팅 메시지
+
+### Foreign Key(외래 키) 제약 조건???? 테이블???
+- `job` 테이블: `enterprise_user_id` 및 `enterprise_id`는 `enterprise_user` 테이블 참조
+- `review` 테이블: `labor_user_id`는 `labor_user` 테이블 참조, `enterprise_id`는 `enterprise` 테이블 참조
+- `enterprise_user` 테이블: `enterprise_id`는 `enterprise` 테이블 참조
+- `chatting` 테이블: `labor_user_id`는 `labor_user` 테이블 참조
 
 ## 📚 기술 스택
 ||Skills|
@@ -98,6 +97,18 @@
 - 기업 회원들이 게시한 기업 채용 공고를 확인 할 수 있는 페이지
 - 직군, 경력, 근무형태, 우대사항 등 세부 내용과 연관된 채용 공고 확인 가능
 
+### 📍 법률 챗봇 페이지
+<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Legal%20Chatbot.gif" width="100%" height="100%" />
+
+- 근로계약, 비자 규정, 법적 권리와 의무 등에 관한 정보를 제공하며, 법적 문제 해결을 도움
+- ?30일 이내의 대화 내용을 저장하여 지속적인 확인 가능?
+
+### 📍 외국인 근로자 지원 센터 페이지
+<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Foreign%20Worker%20Support%20Center.gif" width="100%" height="100%" />
+
+- 사용자의 현재 위치를 기반으로 인근 외국인 근로자 지원 센터 및 병원 위치 및 정보 확인 가능
+- 각 센터 클릭시, 지도에서 해당 위치로 이동
+
 ### 📍 일반 검색 페이지
 <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Search.gif" width="100%" height="100%" />
 
@@ -106,19 +117,7 @@
 ### 📍 AI 검색 페이지
 <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/AI%20Search.gif" width="100%" height="100%" />
 
-- ?
-
-### 📍 법률 챗봇 페이지
-<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Legal%20Chatbot.gif" width="100%" height="100%" />
-
-- 근로계약, 비자 규정, 법적 권리와 의무 등에 관한 정보를 제공하며, 법적 문제 해결을 도움
-- ?30일 이내의 대화 내용을 저장하여 지속적인 확인 가능?
-
-### 📍 외국인 노동자 지원 센터 페이지
-<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Foreign%20Worker%20Support%20Center.gif" width="100%" height="100%" />
-
-- 사용자의 현재 위치를 기반으로 인근 외국인 노동자 지원 센터 및 병원 위치 및 정보 확인 가능
-- 각 센터 클릭시, 지도에서 해당 위치로 이동
+- AI 모델을 활용한 유사 키워드 검색??????
 
 
 ## 🧑‍💻 팀원 구성
@@ -131,4 +130,4 @@
 
 </div>
 
-## 지원서?
+## 📋 지원서?????????????????
