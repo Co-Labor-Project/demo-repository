@@ -71,35 +71,43 @@
 
 ## 💻 상세 페이지 !!!!!!!!!!!!!!설명 수정 필요
 ### 📍 메인 페이지
-![메인화면에서 페이지 보여주기](https://github.com/user-attachments/assets/602fad48-9fbd-43fd-adbd-0ca44c9bc685)
-
+<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Main%20Page.gif" width="100%" height="100%" />
 - Co-Labor 메인 페이지
 
 ### 📍 로그인 / 회원가입 페이지
+<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Login.gif" width="100%" height="100%" />
 - Co-Labor 로그인 및 일반 회원, 기업 회원 가입 페이지
 
 ### 📍 기업 등록 페이지
+<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Company%20Registration.gif" width="100%" height="100%" />
 - 채용 공고를 게시하고자 하는 기업 회원이 본인의 소속 기업을 등록하는 페이지
 - 등록한 기업은 추후 관리자에 의해 승인
 
 ### 📍 기업 상세 페이지
-- Co-LAbor에 등록된 기업들의 상세 정보, 채용 공고, 기업 리뷰 등을 확인 할 수 있는 페이지
-- 
+<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Company%20Details.gif" width="100%" height="100%" />
+- Co-Labor에 등록된 기업들의 상세 정보, 채용 공고, 기업 리뷰 등을 확인 할 수 있는 페이지
+- 해당 기업의 전체 리뷰 통계와 각 리뷰별 세부 내용 확인 가능
 
 ### 📍 채용 공고 페이지
-MySQL 데이터베이스에서 추출한 데이터를 기반으로 Word2Vec 모델을 학습하여 유사 키워드를 생성합니다. 사용자가 입력한 키워드와 유사한 키워드를 통해 관련된 데이터를 검색하여 더 빠르고 정확하게 원하는 정보를 찾을 수 있습니다.
+<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Recruitment%20Notice.gif" width="100%" height="100%" />
+- 기업 회원들이 게시한 기업 채용 공고를 확인 할 수 있는 페이지
+- 경력, 근무형태, 우대사항 등 세부 내용과 연관된 채용 공고 확인 가능
 
 ### 📍 일반 검색 페이지
-MySQL 데이터베이스에서 추출한 데이터를 기반으로 Word2Vec 모델을 학습하여 유사 키워드를 생성합니다. 사용자가 입력한 키워드와 유사한 키워드를 통해 관련된 데이터를 검색하여 더 빠르고 정확하게 원하는 정보를 찾을 수 있습니다.
+<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Search.gif" width="100%" height="100%" />
+- 
 
 ### 📍 AI 검색 페이지
-MySQL 데이터베이스에서 추출한 데이터를 기반으로 Word2Vec 모델을 학습하여 유사 키워드를 생성합니다. 사용자가 입력한 키워드와 유사한 키워드를 통해 관련된 데이터를 검색하여 더 빠르고 정확하게 원하는 정보를 찾을 수 있습니다.
+<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/AI%20Search.gif" width="100%" height="100%" />
+- 
 
 ### 📍 법률 챗봇 페이지
-MySQL 데이터베이스에서 추출한 데이터를 기반으로 Word2Vec 모델을 학습하여 유사 키워드를 생성합니다. 사용자가 입력한 키워드와 유사한 키워드를 통해 관련된 데이터를 검색하여 더 빠르고 정확하게 원하는 정보를 찾을 수 있습니다.
+<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Legal%20Chatbot.gif" width="100%" height="100%" />
+- 
 
 ### 📍 외국인 노동자 지원 센터 페이지
-MySQL 데이터베이스에서 추출한 데이터를 기반으로 Word2Vec 모델을 학습하여 유사 키워드를 생성합니다. 사용자가 입력한 키워드와 유사한 키워드를 통해 관련된 데이터를 검색하여 더 빠르고 정확하게 원하는 정보를 찾을 수 있습니다.
+<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Foreign%20Worker%20Support%20Center.gif" width="100%" height="100%" />
+- 
 
 
 ## 🧑‍💻 팀원 구성
