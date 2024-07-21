@@ -125,7 +125,7 @@
 <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Legal%20Chatbot.gif" width="100%" height="100%" />
 
 - 근로계약, 비자 규정, 법적 권리와 의무 등에 관한 정보를 제공하며, 법적 문제 해결을 도움
-- ?30일 이내의 대화 내용을 저장하여 지속적인 확인 가능?
+- 30일 이내의 이전 대화 내용 확인 가능
 
 ### 📍 외국인 근로자 지원 센터 페이지
 
