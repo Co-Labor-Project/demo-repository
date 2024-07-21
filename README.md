@@ -23,47 +23,47 @@
 ![colabor drawio](https://github.com/user-attachments/assets/127e0d5d-714e-4416-9334-575a5e4a0209)
 
 ### 📚 기술 스택
-- Front :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- Front :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![Static Badge](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Static Badge](https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-- Back-end :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- Back-end :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
  ![Static Badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Static Badge](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)
-- 버전 및 이슈관리 : [![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Co-Labor-Project/demo-repository/)
+- 버전 및 이슈관리 :&nbsp; [![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Co-Labor-Project/demo-repository/)
  ![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- 협업 툴 :  ![Static Badge](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)  [![Static Badge](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://mixolydian-idea-627.notion.site/ba5857ecea9e498f9b94586421b27ca5)
+- 협업 툴 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)  [![Static Badge](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://mixolydian-idea-627.notion.site/ba5857ecea9e498f9b94586421b27ca5)
 
-- 디자인 : [![Static Badge](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/YddHONkDl0nqcbQVkUEVTa/%EA%B3%B5%EB%AA%A8%EC%A0%84?node-id=33-251&t=ocRWZPY412U61gb0-0)
+- 디자인 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Static Badge](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/YddHONkDl0nqcbQVkUEVTa/%EA%B3%B5%EB%AA%A8%EC%A0%84?node-id=33-251&t=ocRWZPY412U61gb0-0)
 
 # 표로 만들기
   
 ## 🗃️ ERD
 ![erd](https://github.com/user-attachments/assets/d8bdf38d-52bf-47f8-9e3d-bda802015754)
 
-### 사용자 (`labor_user`)
+### labor_user (`사용자`)
 - **설명**: 외국인 노동자(사용자) 정보를 나타냅니다.
 
-### 기업 (`enterprise`)
+### enterprise (`기업`)
 - **설명**: 기업 정보를 나타냅니다.
 
-### 채용 공고 (`job`)
+### job (`채용 공고`)
 - **설명**: 기업에서 게시하는 채용 공고를 나타냅니다.
 
-### 리뷰 (`review`)
+### review (`리뷰`)
 - **설명**: 사용자가 기업에 대한 리뷰를 나타냅니다.
 
-### 지원 센터 (`support_center`)
+### support_center (`지원 센터`)
 - **설명**: 채용을 지원하는 센터 정보를 나타냅니다.
 
-### 기업 사용자 (`enterprise_user`)
+### enterprise_user (`기업 사용자`)
 - **설명**: 채용 공고를 게시할 수 있는 기업 내 사용자 정보를 나타냅니다.
 
-### 채팅 (`chatting`)
+### chatting (`채팅`)
 - **설명**: 사용자와 법률 챗봇간의 채팅 메시지를 나타냅니다.
 
-### 기업 대기열 (`enterprise_queue`)
+### enterprise_queue (`기업 대기열`)
 - **설명**: 승인을 기다리는 기업 정보를 나타냅니다.
 
-### 병원 (`hospital`)
+### hospital (`병원`)
 - **설명**: 병원 정보를 나타내며, 위치를 제공할 수 있습니다.
 
 ### 관계 및 제약 조건
