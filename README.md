@@ -156,5 +156,6 @@
 
 </div>
 
-## 📋 지원서
 
+## 📋 지원서
+[Co-Labor_Proposal.pdf](https://github.com/user-attachments/files/16325293/Co-Labor_Proposal.pdf)
