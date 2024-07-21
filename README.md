@@ -85,7 +85,7 @@
 | **Collaboration**          |                                                                      ![Static Badge](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) [![Static Badge](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://mixolydian-idea-627.notion.site/7d14829c5a3e4b84930b2c5a8b0c9838?pvs=4)                                                                      |
 | **Design**                 |                                                                                                         [![Static Badge](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/YddHONkDl0nqcbQVkUEVTa/%EA%B3%B5%EB%AA%A8%EC%A0%84?node-id=33-251&t=ocRWZPY412U61gb0-0)                                                                                                          |
 
-## 💻 상세 페이지 !!!!!!!!!!!!!!설명 수정 필요
+## 💻 상세 페이지
 
 ### 📍 메인 페이지
 
@@ -125,7 +125,7 @@
 <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/Legal%20Chatbot.gif" width="100%" height="100%" />
 
 - 근로계약, 비자 규정, 법적 권리와 의무 등에 관한 정보를 제공하며, 법적 문제 해결을 도움
-- 30일 이내의 이전 대화 내용 확인 가능
+- 과거 대화 내용 확인 가능
 
 ### 📍 외국인 근로자 지원 센터 페이지
 
