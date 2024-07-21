@@ -62,6 +62,9 @@ MySQL 데이터베이스에서 추출한 데이터를 기반으로 Word2Vec 모�
 
 | **김도현** | **김문기** | **정한울** | **조준화** |
 | :------: |  :------: | :------: | :------: |
-| ![ehgus](https://github.com/user-attachments/assets/87c460aa-4999-4bc6-9243-3e32b6bfca35) <br/> [@kdhqwe1030](https://github.com/kdhqwe1030) | ![ansrl](https://github.com/user-attachments/assets/8c32ebd4-b849-438c-ad4d-c154328060e7) <br/> [@mk-isos](https://github.com/mk-isos) | ![화면 캡처 2024-07-01 164944](https://github.com/user-attachments/assets/403beca7-52fe-4917-899d-1ecf454e3ae9) <br/> [@jho7535](https://github.com/jho7535) |  <br/> [@jjj5306](https://github.com/jjj5306) |
+| <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/img/kdhqwe1030_img.jpg" height=240 width=180> <br/> [@kdhqwe1030](https://github.com/kdhqwe1030) | <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/img/mk-isos_img.jpg" height=240 width=180> <br/> [@mk-isos](https://github.com/mk-isos) | <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/img/jho7535_img.jpg" height=240 width=180> <br/> [@jho7535](https://github.com/jho7535) | <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/img/jjj5306_img.jpg" height=240 width=180> <br/> [@jjj5306](https://github.com/jjj5306) |
+
+
+
 
 </div>
