@@ -34,9 +34,42 @@
   
 ## 🗃️ ERD
 ![erd](https://github.com/user-attachments/assets/d8bdf38d-52bf-47f8-9e3d-bda802015754)
-- erd 설명 넣을까?
-- ?
-- ?
+
+### 사용자 (`labor_user`)
+- **설명**: 외국인 노동자(사용자) 정보를 나타냅니다.
+
+### 기업 (`enterprise`)
+- **설명**: 기업 정보를 나타냅니다.
+
+### 채용 공고 (`job`)
+- **설명**: 기업에서 게시하는 채용 공고를 나타냅니다.
+
+### 리뷰 (`review`)
+- **설명**: 사용자가 기업에 대한 리뷰를 나타냅니다.
+
+### 지원 센터 (`support_center`)
+- **설명**: 채용을 지원하는 센터 정보를 나타냅니다.
+
+### 기업 사용자 (`enterprise_user`)
+- **설명**: 채용 공고를 게시할 수 있는 기업 내 사용자 정보를 나타냅니다.
+
+### 채팅 (`chatting`)
+- **설명**: 사용자와 법률 챗봇간의 채팅 메시지를 나타냅니다.
+
+### 기업 대기열 (`enterprise_queue`)
+- **설명**: 승인을 기다리는 기업 정보를 나타냅니다.
+
+### 병원 (`hospital`)
+- **설명**: 병원 정보를 나타내며, 위치를 제공할 수 있습니다.
+
+## 관계 및 제약 조건
+
+- **외래 키 제약 조건**:
+  - `job` 테이블: `enterprise_user_id` 및 `enterprise_id`는 `enterprise_user` 테이블 참조
+  - `review` 테이블: `labor_user_id`는 `labor_user` 테이블 참조, `enterprise_id`는 `enterprise` 테이블 참조
+  - `enterprise_user` 테이블: `enterprise_id`는 `enterprise` 테이블 참조
+  - `chatting` 테이블: `labor_user_id`는 `labor_user` 테이블 참조
+
 
 
 
