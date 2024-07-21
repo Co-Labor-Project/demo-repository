@@ -70,10 +70,10 @@
 
 ### Foreign Key(외래 키) 제약 조건???? 테이블???
 
-- `job` 테이블: `enterprise_user_id` 및 `enterprise_id`는 `enterprise_user` 테이블 참조
-- `review` 테이블: `labor_user_id`는 `labor_user` 테이블 참조, `enterprise_id`는 `enterprise` 테이블 참조
-- `enterprise_user` 테이블: `enterprise_id`는 `enterprise` 테이블 참조
-- `chatting` 테이블: `labor_user_id`는 `labor_user` 테이블 참조
+- `job` : `enterprise_user_id` 및 `enterprise_id`는 `enterprise_user` 테이블 참조
+- `review` : `labor_user_id`는 `labor_user` 테이블 참조, `enterprise_id`는 `enterprise` 테이블 참조
+- `enterprise_user` : `enterprise_id`는 `enterprise` 테이블 참조
+- `chatting` : `labor_user_id`는 `labor_user` 테이블 참조
 
 ## 📚 기술 스택
 
