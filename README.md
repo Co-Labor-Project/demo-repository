@@ -160,4 +160,6 @@
 
 
 ## 📋 제안서
-[Co-Labor_Proposal.pdf](https://github.com/user-attachments/files/16325293/Co-Labor_Proposal.pdf)
+[Co-Labor_Proposal.pdf](https://github.com/user-attachments/files/16548366/Co-Labor_Proposal.pdf)
+
+
